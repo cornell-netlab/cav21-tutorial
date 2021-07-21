@@ -16,7 +16,7 @@ There are four directories:
 
 # Running the code
 
-To run the code, you will need a version of Petr4 that can interact with Linux network interfaces, as well as scripts for running Petr4 in Mininet. Development versions can be found on the `mininet-interface` branch of the [Petr4](https://github.com/cornell-netlab/petr4) repository.
+To run the first three examples, you will need a version of Petr4 that can interact with Linux network interfaces, as well as scripts for running Petr4 in Mininet. Development versions can be found on the `mininet-interface` branch of the [Petr4](https://github.com/cornell-netlab/petr4) repository. The fourth example requires `p4v` which is proprietary software developed by Barefoot Networks, an Intel company. 
 
 # Credits
 
